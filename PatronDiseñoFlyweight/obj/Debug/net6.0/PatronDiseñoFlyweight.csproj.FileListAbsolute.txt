@@ -1,0 +1,15 @@
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\bin\Debug\net6.0\PatronDiseñoFlyweight.exe
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\bin\Debug\net6.0\PatronDiseñoFlyweight.deps.json
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\bin\Debug\net6.0\PatronDiseñoFlyweight.runtimeconfig.json
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\bin\Debug\net6.0\PatronDiseñoFlyweight.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\bin\Debug\net6.0\PatronDiseñoFlyweight.pdb
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.csproj.AssemblyReference.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.AssemblyInfoInputs.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.AssemblyInfo.cs
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.csproj.CoreCompileInputs.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\refint\PatronDiseñoFlyweight.dll
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.pdb
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\PatronDiseñoFlyweight.genruntimeconfig.cache
+D:\ITSQ\5to Semestre\Seguridad Informática\Trabajos en Clases\PatronDiseñoFlyweight\PatronDiseñoFlyweight\obj\Debug\net6.0\ref\PatronDiseñoFlyweight.dll
